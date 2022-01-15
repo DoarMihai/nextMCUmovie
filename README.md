@@ -1,6 +1,6 @@
 # Next MCU movie
 
-![nextMCUmovie](https://github.com/DoarMihai/nextMCUmovie/tree/main/public/img/nextMCUmovie.png)
+![nextMCUmovie](https://raw.githubusercontent.com/DoarMihai/nextMCUmovie/main/public/img/nextMCUmovie.png)
 
 ## About the project
 Next MCU movie is a simple Symfony 5.4.x application that gets and displays the next Marvel Movie to be released.
